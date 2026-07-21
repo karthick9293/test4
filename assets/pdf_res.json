@@ -1,0 +1,42 @@
+{
+  "response": [
+    {
+      "TransRefno": "00014062300004",
+      "TransDate": "14/06/2023 11:50:48",
+      "MerchantTrackID": "",
+      "PINNumber": "",
+      "SourceCurr": "QAR",
+      "DestinCurr": "INR",
+      "Charge": "0.00",
+      "Rebate": "null",
+      "TaxAmount": "0.25",
+      "PaymentAmt": "200.00",
+      "NetAmount": "200.25",
+      "RecAmt": 200.0,
+      "BeneficiaryName": "TEST  BENF",
+      "BankName": "SOUTH INDIAN BANK",
+      "AccountNumber": "35535",
+      "ServNo": "00001",
+      "ServiceType": "BANK TRANSFER",
+      "PayMode": "ACCOUNT TRANSFER",
+      "BranchCode": "00467",
+      "BranchName": "ABHISHEGAPAKKAM",
+      "IFSCCode": "IFSC CODE - SIBL0000885",
+      "Customer": "HARI  PRIYA",
+      "Email": "abc@gmail.com",
+      "Phone": "97489654789",
+      "Address": "KERALA ",
+      "Status": "Success",
+      "CompanyName": "CITY EXCHANGE",
+      "VATIN": "CITY1100006796",
+      "CR": "1492241",
+      "TAXCARD": "8073989",
+      "CustomerVATIN": "UnRegistered",
+      "TransStatus": "Pending to Process"
+    }
+  ],
+  "message": "Success",
+  "statusCode": "200",
+  "sessionID": "null"
+
+}

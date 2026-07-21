@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="delete" transform="translate(-69 -319)">
+    <g id="Rectangle_244" data-name="Rectangle 244" opacity="0">
+      <rect id="Rectangle_244-2" data-name="Rectangle 244" width="31" height="31" transform="translate(69 319)" fill="#fff"/>
+      <path id="Rectangle_244_-_Outline" data-name="Rectangle 244 - Outline" d="M1,1V30H30V1H1M0,0H31V31H0Z" transform="translate(69 319)" fill="#707070"/>
+    </g>
+    <g id="delete-2" data-name="delete" transform="translate(72.426 321.762)" style="isolation: isolate">
+      <path id="Path_558" data-name="Path 558" d="M15.82,3A1.082,1.082,0,0,1,16.9,4.082h2.164a1.082,1.082,0,0,1,0,2.164H6.082a1.082,1.082,0,1,1,0-2.164H8.246A1.082,1.082,0,0,1,9.328,3Z" transform="translate(0)" fill="#444"/>
+      <path id="Path_559" data-name="Path 559" d="M6,7H18.984V19.984a2.164,2.164,0,0,1-2.164,2.164H8.164A2.164,2.164,0,0,1,6,19.984ZM9.787,9.164a.541.541,0,0,0-.541.541v9.738a.541.541,0,0,0,1.082,0V9.705A.541.541,0,0,0,9.787,9.164Zm5.41,0a.541.541,0,0,0-.541.541v9.738a.541.541,0,0,0,1.082,0V9.705A.541.541,0,0,0,15.2,9.164Z" transform="translate(0.082 0.328)" fill="#444" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

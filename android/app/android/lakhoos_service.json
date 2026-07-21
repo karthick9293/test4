@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480435881643",
+    "project_id": "lakhoos-db3a6",
+    "storage_bucket": "lakhoos-db3a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480435881643:android:5f1e5ada917a59c85cd9ee",
+        "android_client_info": {
+          "package_name": "com.dis.lakhoos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAttb-TdF8p010SJmeL11sEHe-betWAZAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

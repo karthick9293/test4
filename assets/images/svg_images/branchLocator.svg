@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Branch_Locattor" data-name="Branch Locattor" transform="translate(-13095 -577)">
+    <g id="Rectangle_81" data-name="Rectangle 81" opacity="0">
+      <rect id="Rectangle_81-2" data-name="Rectangle 81" width="30" height="30" transform="translate(13095 577)" fill="#fff"/>
+      <path id="Rectangle_81_-_Outline" data-name="Rectangle 81 - Outline" d="M1,1V29H29V1H1M0,0H30V30H0Z" transform="translate(13095 577)" fill="#707070"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(13096 579)">
+      <path id="Path_480" data-name="Path 480" d="M13.517,23.681a.774.774,0,0,0,.48-.17c.294-.263,8.037-6.5,8.037-12.993A8.517,8.517,0,1,0,5,10.518c0,6.489,7.743,12.73,8.037,12.993A.774.774,0,0,0,13.517,23.681ZM6.549,10.518a6.969,6.969,0,1,1,13.938,0c0,4.878-5.32,9.919-6.969,11.375C11.868,20.437,6.549,15.4,6.549,10.518Z" fill="#05a6dd"/>
+      <path id="Path_481" data-name="Path 481" d="M18.743,11.872a3.872,3.872,0,1,0-3.872,3.872,3.872,3.872,0,0,0,3.872-3.872Zm-6.195,0a2.323,2.323,0,1,1,2.323,2.323A2.323,2.323,0,0,1,12.549,11.872Z" transform="translate(-1.354 -1.354)" fill="#05a6dd"/>
+    </g>
+  </g>
+</svg>

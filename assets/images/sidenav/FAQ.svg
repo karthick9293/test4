@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="FAQ" transform="translate(-13023 -577)">
+    <g id="Rectangle_82" data-name="Rectangle 82" opacity="0">
+      <rect id="Rectangle_82-2" data-name="Rectangle 82" width="30" height="30" transform="translate(13023 577)" fill="#fff"/>
+      <path id="Rectangle_82_-_Outline" data-name="Rectangle 82 - Outline" d="M1,1V29H29V1H1M0,0H30V30H0Z" transform="translate(13023 577)" fill="#707070"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(13025 579)">
+      <path id="Path_478" data-name="Path 478" d="M12.841,2A10.841,10.841,0,1,0,23.681,12.841,10.841,10.841,0,0,0,12.841,2Zm0,19.874a9.034,9.034,0,1,1,9.034-9.034,9.034,9.034,0,0,1-9.034,9.034Z" transform="translate(0 0)" fill="#05a6dd"/>
+      <path id="Path_479" data-name="Path 479" d="M10.324,4.587A3.614,3.614,0,0,0,6.132,6.954.885.885,0,0,0,6.71,8.092a.9.9,0,0,0,1.138-.6A1.807,1.807,0,0,1,9.908,6.34a1.807,1.807,0,0,1,1.265,1.987A1.807,1.807,0,0,1,9.366,9.719a.9.9,0,0,0-1.012.9V13.44a.9.9,0,0,0,.9.9.885.885,0,0,0,.9-.885V11.471a3.614,3.614,0,0,0,2.8-2.837A3.614,3.614,0,0,0,10.324,4.587ZM9.2,15.139a.958.958,0,0,0-.9.9v.2a.849.849,0,0,0,.885.831.958.958,0,0,0,.9-.94v-.145a.849.849,0,0,0-.885-.849Z" transform="translate(3.294 2.02)" fill="#05a6dd"/>
+    </g>
+  </g>
+</svg>

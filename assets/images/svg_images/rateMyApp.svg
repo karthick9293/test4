@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Rate_My_App" data-name="Rate My App" transform="translate(-13245 -577)">
+    <g id="Rectangle_87" data-name="Rectangle 87" opacity="0">
+      <rect id="Rectangle_87-2" data-name="Rectangle 87" width="30" height="30" transform="translate(13245 577)" fill="#fff"/>
+      <path id="Rectangle_87_-_Outline" data-name="Rectangle 87 - Outline" d="M1,1V29H29V1H1M0,0H30V30H0Z" transform="translate(13245 577)" fill="#707070"/>
+    </g>
+    <path id="star" d="M24.724,11.141a1.065,1.065,0,0,0-.909-1.25l-6.476-.909L14.385,3.074a.887.887,0,0,0-.454-.454,1.15,1.15,0,0,0-1.591.454L9.5,8.982l-6.476.909a.687.687,0,0,0-.682.341,1.1,1.1,0,0,0,0,1.591L7,16.367,5.863,22.844a1.441,1.441,0,0,0,.114.682,1.15,1.15,0,0,0,1.591.454l5.795-3.068,5.795,3.068a.851.851,0,0,0,.568.114h.227a1.178,1.178,0,0,0,.909-1.363l-1.136-6.476,4.658-4.545A.625.625,0,0,0,24.724,11.141ZM17.68,15.117a1.586,1.586,0,0,0-.341,1.023l.8,4.772L13.817,18.64a.851.851,0,0,0-.568-.114V6.141l2.159,4.318a.9.9,0,0,0,.909.568l4.772.682Z" transform="translate(13247 578.541)" fill="#05a6dd"/>
+  </g>
+</svg>

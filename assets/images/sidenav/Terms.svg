@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Terms" transform="translate(-13059 -577)">
+    <g id="Rectangle_83" data-name="Rectangle 83" opacity="0">
+      <rect id="Rectangle_83-2" data-name="Rectangle 83" width="30" height="30" transform="translate(13059 577)" fill="#fff"/>
+      <path id="Rectangle_83_-_Outline" data-name="Rectangle 83 - Outline" d="M1,1V29H29V1H1M0,0H30V30H0Z" transform="translate(13059 577)" fill="#707070"/>
+    </g>
+    <path id="list" d="M6.182,2V3.591H3.8a.8.8,0,0,0-.8.8v17.5a.8.8,0,0,0,.8.8H18.113a.8.8,0,0,0,.8-.8V4.386a.8.8,0,0,0-.8-.8H15.727V2ZM4.591,5.182H6.182V6.773h9.545V5.182h1.591V21.09H4.591ZM6.977,8.363a.8.8,0,1,0,.8.8A.8.8,0,0,0,6.977,8.363Zm2.386,0V9.954h6.363V8.363ZM6.977,11.545a.8.8,0,1,0,.8.8A.8.8,0,0,0,6.977,11.545Zm2.386,0v1.591h6.363V11.545ZM6.977,14.727a.8.8,0,1,0,.8.8A.8.8,0,0,0,6.977,14.727Zm2.386,0v1.591h6.363V14.727ZM6.977,17.908a.8.8,0,1,0,.8.8A.8.8,0,0,0,6.977,17.908Zm2.386,0V19.5h6.363V17.908Z" transform="translate(13063 580)" fill="#05a6dd"/>
+  </g>
+</svg>

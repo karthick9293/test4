@@ -1,0 +1,18 @@
+{
+  "StatusCode": "SCFG001",
+  "OutputBody": {
+    "RootNode": {
+      "Response": [
+        {
+          "UUID": "6a155828-9392-482c-8fed-308571d3b798",
+          "EmiratesID": "784199257361818",
+          "DocumentID1": "EmiratesId",
+          "DocumentCode1": "https://mobileuat.sharafexchange.com/uaepasscustomerdocs/6a155828-9392-482c-8fed-308571d3b798_784199257361818_EmiratesId_0.jpg,https://mobileuat.sharafexchange.com/uaepasscustomerdocs/6a155828-9392-482c-8fed-308571d3b798_784199257361818_EmiratesId_1.jpg",
+          "DocumentID2": "Passport",
+          "DocumentCode2": "https://mobileuat.sharafexchange.com/uaepasscustomerdocs/6a155828-9392-482c-8fed-308571d3b798_784199257361818_Passport_0.jpg",
+          "ReqAuthorized": "Y"
+        }
+      ]
+    }
+  }
+}

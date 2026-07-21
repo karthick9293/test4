@@ -1,0 +1,6 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+ASSET_PREFIX=aljazeeraexchangeqatar
+BUNDLE_NAME=Al Jazeera Exchange Qatar
+BUNDLE_DISPLAY_NAME=Al Jazeera Exchange Qatar

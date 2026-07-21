@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.765" height="28.765" viewBox="0 0 28.765 28.765">
+  <g id="Page-1" opacity="0.45">
+    <g id="Face-ID">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_1" data-name="Group 1">
+          <g id="Corners">
+            <g id="Corner">
+              <path id="Path_1" data-name="Path 1" d="M1.479,7.89V4.685A3.155,3.155,0,0,1,4.685,1.479H7.89A.74.74,0,0,0,7.89,0H4.685A4.634,4.634,0,0,0,0,4.685V7.89a.74.74,0,0,0,1.479,0Z"/>
+            </g>
+            <g id="Corner-2" data-name="Corner" transform="translate(28.765 8.629) rotate(180)">
+              <path id="Path_2" data-name="Path 2" d="M1.479.74V3.945A3.155,3.155,0,0,0,4.685,7.15H7.89a.74.74,0,0,1,0,1.479H4.685A4.634,4.634,0,0,1,0,3.945V.74a.74.74,0,0,1,1.479,0Z"/>
+            </g>
+            <g id="Corner-3" data-name="Corner" transform="translate(0 20.135)">
+              <path id="Path_3" data-name="Path 3" d="M1.479-23.26v3.205A3.155,3.155,0,0,0,4.685-16.85H7.89a.74.74,0,0,1,.74.74.74.74,0,0,1-.74.74H4.685A4.634,4.634,0,0,1,0-20.055V-23.26A.74.74,0,0,1,.74-24,.74.74,0,0,1,1.479-23.26Z" transform="translate(0 24)"/>
+            </g>
+            <g id="Corner-4" data-name="Corner" transform="translate(28.765 28.765) rotate(180)">
+              <path id="Path_4" data-name="Path 4" d="M1.479,7.89V4.685A3.155,3.155,0,0,1,4.685,1.479H7.89A.74.74,0,0,0,7.89,0H4.685A4.634,4.634,0,0,0,0,4.685V7.89a.74.74,0,0,0,1.479,0Z"/>
+            </g>
+          </g>
+          <g id="Eye" transform="translate(7.822 10.093)">
+            <path id="Path" d="M0,.77V2.826a.746.746,0,0,0,.719.77.746.746,0,0,0,.719-.77V.77A.746.746,0,0,0,.719,0,.746.746,0,0,0,0,.77Z" transform="translate(0 0)"/>
+          </g>
+          <g id="Eye-2" data-name="Eye" transform="translate(19.681 10.093)">
+            <path id="Path-2" data-name="Path" d="M0,.77V2.826a.746.746,0,0,0,.719.77.746.746,0,0,0,.719-.77V.77A.746.746,0,0,0,.719,0,.746.746,0,0,0,0,.77Z" transform="translate(0 0)"/>
+          </g>
+          <path id="Mouth" d="M25.5,56.749a7.479,7.479,0,0,0,10.116,0,.757.757,0,0,0-1.033-1.107,5.966,5.966,0,0,1-8.051,0A.757.757,0,1,0,25.5,56.749Z" transform="translate(-16.18 -35.505)"/>
+          <path id="Nose" d="M36.854,28.827v5.3a.445.445,0,0,1-.507.5h-.5a.757.757,0,1,0,0,1.514h.5a1.947,1.947,0,0,0,2.02-2.019v-5.3a.757.757,0,0,0-1.514,0Z" transform="translate(-22.472 -17.977)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

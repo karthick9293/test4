@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="57" viewBox="0 0 63 57">
+  <g id="Send_Money" data-name="Send Money" transform="translate(-37 -220)">
+    <rect id="Rectangle_57" data-name="Rectangle 57" width="63" height="57" rx="15" transform="translate(37 220)" fill="#05a6dd"/>
+    <g id="telegram" transform="translate(49.535 232.364)">
+      <path id="Path_451" data-name="Path 451" d="M1.562,14.214a.784.784,0,0,0-.037,1.441l7.441,3.4a.782.782,0,0,1,.421.478l3.192,10.217a.777.777,0,0,0,1.211.391l5.557-4.21a.775.775,0,0,1,.9-.024l9.32,6.323a.777.777,0,0,0,1.2-.507L36.27,1.8ZM14.824,20.5l-1,5.74-2.592-8.219L29,6.93Z" transform="translate(-0.807 -0.942)" fill="#fff"/>
+      <path id="Path_453" data-name="Path 453" d="M1.562,14.214a.784.784,0,0,0-.037,1.441l7.441,3.4a.782.782,0,0,1,.421.478l3.192,10.217a.777.777,0,0,0,1.211.391l5.557-4.21a.775.775,0,0,1,.9-.024l9.32,6.323a.777.777,0,0,0,1.2-.507L36.27,1.8ZM14.824,20.5l-1,5.74-2.592-8.219L29,6.93Z" transform="translate(-0.807 -0.942)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

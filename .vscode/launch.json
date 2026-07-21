@@ -1,0 +1,178 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "casmex (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_casmex.dart",
+            "args": [
+                "--flavor",
+                "casmex"
+            ]
+        },
+        {
+            "name": "casmex (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/main_casmex.dart",
+            "args": [
+                "--flavor",
+                "casmex"
+            ]
+        },
+        {
+            "name": "casmex (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_casmex.dart",
+            "args": [
+                "--flavor",
+                "casmex"
+            ]
+        },
+        {
+            "name": "cityExchange (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_cityExchange.dart",
+            "args": [
+                "--flavor",
+                "cityExchange"
+            ]
+        },
+        {
+            "name": "cityExchange (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/main_cityExchange.dart",
+            "args": [
+                "--flavor",
+                "cityExchange"
+            ]
+        },
+        {
+            "name": "cityExchange (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_cityExchange.dart",
+            "args": [
+                "--flavor",
+                "cityExchange"
+            ]
+        },
+        {
+            "name": "lmExchange (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_lmpay.dart",
+            "args": [
+                "--flavor",
+                "lmpay"
+            ]
+        },
+        {
+            "name": "lmExchange (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/main_lmpay.dart",
+            "args": [
+                "--flavor",
+                "lmpay"
+            ]
+        },
+        {
+            "name": "lmExchange (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_lmpay.dart",
+            "args": [
+                "--flavor",
+                "lmpay"
+            ]
+        },
+        {
+            "name": "cityexchangeuae (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_cityexchangeuae.dart",
+            "args": [
+                "--flavor",
+                "cityexchangeuae"
+            ]
+        },
+        {
+            "name": "cityexchangeuae (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_cityexchangeuae.dart",
+            "args": [
+                "--flavor",
+                "cityexchangeuae"
+            ]
+        },
+        {
+            "name": "lakhoos (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_lakhoos.dart",
+            "args": [
+                "--flavor",
+                "lakhoos"
+            ]
+        },
+        {
+            "name": "lakhoos (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_lakhoos.dart",
+            "args": [
+                "--flavor",
+                "lakhoos"
+            ]
+        },
+        {
+            "name": "Global Exchange (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_globalexchange.dart",
+            "args": [
+                "--flavor",
+                "globalexchange"
+            ]
+        },
+        {
+            "name": "Global Exchange (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/main_globalexchange.dart",
+            "args": [
+                "--flavor",
+                "globalexchange"
+            ]
+        },
+        {
+            "name": "Global Exchange (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_globalexchange.dart",
+            "args": [
+                "--flavor",
+                "globalexchange"
+            ]
+        }
+    ]
+}

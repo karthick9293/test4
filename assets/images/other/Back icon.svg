@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="Back_icon" data-name="Back icon" transform="translate(-69 -74)">
+    <g id="Rectangle_239" data-name="Rectangle 239" opacity="0">
+      <rect id="Rectangle_239-2" data-name="Rectangle 239" width="31" height="31" transform="translate(69 74)" fill="#fff"/>
+      <path id="Rectangle_239_-_Outline" data-name="Rectangle 239 - Outline" d="M1,1V30H30V1H1M0,0H31V31H0Z" transform="translate(69 74)" fill="#707070"/>
+    </g>
+    <path id="_Color" data-name=" ↳Color" d="M12.521,2.386,10.139,0,0,10.152,10.139,20.3l2.383-2.386L4.782,10.152Z" transform="translate(78.239 79.348)" fill="#5e6368"/>
+  </g>
+</svg>

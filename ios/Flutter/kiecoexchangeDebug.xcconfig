@@ -1,0 +1,6 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+ASSET_PREFIX=kiecoexchange
+BUNDLE_NAME=KIECO Exchange
+BUNDLE_DISPLAY_NAME=KIECO Exchange

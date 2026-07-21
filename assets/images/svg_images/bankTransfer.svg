@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="60" viewBox="0 0 62 60">
+  <g id="Group_838" data-name="Group 838" transform="translate(-34 -193)">
+    <g id="Rectangle_123" data-name="Rectangle 123" transform="translate(34 193)" fill="none" stroke="#4e89ee" stroke-width="2">
+      <rect width="62" height="60" rx="12" stroke="none"/>
+      <rect x="1" y="1" width="60" height="58" rx="11" fill="none"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(45 203)">
+      <path id="Path_1510" data-name="Path 1510" d="M3,10.615,19.5,3,36,10.615Z" transform="translate(0 0)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_5" data-name="Line 5" x2="33" transform="translate(3.5 36.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_6" data-name="Line 6" x2="28" transform="translate(5.5 32.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_7" data-name="Line 7" x2="28" transform="translate(5.5 14.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_8" data-name="Line 8" y2="10" transform="translate(8.5 18.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_9" data-name="Line 9" y2="10" transform="translate(15.5 18.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_10" data-name="Line 10" y2="10" transform="translate(23.5 18.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_11" data-name="Line 11" y2="10" transform="translate(30.5 18.5)" fill="none" stroke="#4e89ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

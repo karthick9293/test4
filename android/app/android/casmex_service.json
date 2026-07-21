@@ -1,0 +1,353 @@
+{
+  "project_info": {
+    "project_number": "19560521545",
+    "project_id": "casmex-53899",
+    "storage_bucket": "casmex-53899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:a211c7cc4f64621d468498",
+        "android_client_info": {
+          "package_name": "com.dis.al_jadeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:a211c7cc4f64621d468498",
+        "android_client_info": {
+          "package_name": "io.thoughtbox.hamdan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.thoughtbox.hamdan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:45f0ca76fba51160468498",
+        "android_client_info": {
+          "package_name": "com.dis.casmex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:888fdbae03b234ed468498",
+        "android_client_info": {
+          "package_name": "com.dis.royal_growth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:11a4baf6c8eec253468498",
+        "android_client_info": {
+          "package_name": "com.dis.unimoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:1c54310fdc1f9564468498",
+        "android_client_info": {
+          "package_name": "com.mobile.KabayanRemit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:da437b70b8efba9a468498",
+        "android_client_info": {
+          "package_name": "com.nagainfo.dohaexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:94619bb768d727bd468498",
+        "android_client_info": {
+          "package_name": "com.nagainfo.kabayan_remit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6228412804:android:3ca676ab30d8b0c4d375d1",
+        "android_client_info": {
+          "package_name": "com.dis.sharafexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2b2neoO_ZU-PmI2WBCbFePt4jQ5jKb-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19560521545:android:b13e93cb1ebb7ee9468498",
+        "android_client_info": {
+          "package_name": "io.thoughtbox.hamdan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWoZEtt1A94xgwdx19wJQjzr4VKylyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19560521545-nohklbiapv9sb0vvjj0v2athmq7ujihh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19560521545-59adt843vg6cpf7legsd0ihbu9e97isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dis.sharaf-exchange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

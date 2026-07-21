@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="Upload" transform="translate(-69 -419)">
+    <g id="Rectangle_246" data-name="Rectangle 246" opacity="0">
+      <rect id="Rectangle_246-2" data-name="Rectangle 246" width="31" height="31" transform="translate(69 419)" fill="#fff"/>
+      <path id="Rectangle_246_-_Outline" data-name="Rectangle 246 - Outline" d="M1,1V30H30V1H1M0,0H31V31H0Z" transform="translate(69 419)" fill="#707070"/>
+    </g>
+    <g id="upload-2" data-name="upload" transform="translate(71.752 421.752)">
+      <path id="Path_554" data-name="Path 554" d="M20.6,22.5H5.892A1.892,1.892,0,0,1,4,20.6V18.292a.841.841,0,1,1,1.681,0V20.6a.21.21,0,0,0,.21.21H20.6a.21.21,0,0,0,.21-.21V18.292a.841.841,0,1,1,1.681,0V20.6A1.892,1.892,0,0,1,20.6,22.5ZM19.133,5.681H7.363A.841.841,0,0,1,7.363,4h11.77a.841.841,0,1,1,0,1.681Z" fill="#464646"/>
+      <path id="Path_555" data-name="Path 555" d="M18.34,13.524a.841.841,0,0,1-.773.521H15.045v3.363a.841.841,0,1,1-1.681,0V14.045H10.841a.846.846,0,0,1-.6-1.438l3.363-3.363a.869.869,0,0,1,1.194,0l3.363,3.363a.841.841,0,0,1,.177.916Z" transform="translate(-0.956 -0.797)" fill="#464646"/>
+    </g>
+  </g>
+</svg>
