@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986647290213",
+    "project_id": "cityexchangeuae-dis",
+    "storage_bucket": "cityexchangeuae-dis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986647290213:android:6425bdc9376059a706018c",
+        "android_client_info": {
+          "package_name": "com.dis.cityexchangeuae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtR4zLdI2MNKhFbhdMGAEW8O7_D6Bc91g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

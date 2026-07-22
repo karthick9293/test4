@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <g id="Credit_Card" data-name="Credit Card" transform="translate(-333 -718)">
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="63" height="63" rx="15" transform="translate(333 718)" fill="#fff"/>
+    <path id="Rectangle_67_-_Outline" data-name="Rectangle 67 - Outline" d="M15,2A13,13,0,0,0,2,15V48A13,13,0,0,0,15,61H48A13,13,0,0,0,61,48V15A13,13,0,0,0,48,2H15m0-2H48A15,15,0,0,1,63,15V48A15,15,0,0,1,48,63H15A15,15,0,0,1,0,48V15A15,15,0,0,1,15,0Z" transform="translate(333 718)" fill="#05a6dd"/>
+    <path id="credit-card" d="M96.341,207.5a2.8,2.8,0,0,0-2.8-2.8H65.3a2.8,2.8,0,0,0-2.8,2.8v1.57H96.341V207.5ZM62.5,213.777v10.98a2.8,2.8,0,0,0,2.8,2.8H93.537a2.806,2.806,0,0,0,2.8-2.8v-10.98H62.5Zm10.388,9.789a.21.21,0,0,1-.209.209H66.658a.21.21,0,0,1-.209-.209V221.6a.213.213,0,0,1,.209-.209h6.026a.213.213,0,0,1,.209.209Z" transform="translate(285.08 533.3)" fill="#05a6dd"/>
+  </g>
+</svg>

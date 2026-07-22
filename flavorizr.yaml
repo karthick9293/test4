@@ -1,0 +1,282 @@
+app:
+  android:
+    flavorDimensions: "flavor-type"
+  ios: {}
+
+flavors:
+
+  casmex:
+    app:
+      name: "Casmex"
+    android:
+      applicationId: "com.dis.casmex"
+      icon: "assets/images/casmex.png"
+    ios:
+      bundleId: "com.dis.casmex"
+      icon: "assets/images/casmex.png"
+    variables:
+      DEEPLINK_SCHEME_1: "casmex"
+      DEEPLINK_SCHEME_2: "casmexDoc"
+      DEEPLINK_SCHEME_3: "casmexDash"
+
+  lmpay:
+    app:
+      name: "LMPAY"
+    android:
+      applicationId: "com.user.lm_pay"
+      icon: "assets/images/lmpay.png"
+    ios:
+      bundleId: "com.user.lmpay"
+      icon: "assets/images/lmpay.png"
+    variables:
+      DEEPLINK_SCHEME_1: "lampay"
+      DEEPLINK_SCHEME_2: "lampayDoc"
+      DEEPLINK_SCHEME_3: "lampayDash"
+
+  globalexchange:
+    app:
+      name: "Global Exchange"
+    android:
+      applicationId: "com.dis.globalexchange"
+      icon: "assets/images/globalexchange.png"
+    ios:
+      bundleId: "com.dis.globalexchange"
+      icon: "assets/images/globalexchange.png"
+    variables:
+      DEEPLINK_SCHEME_1: "globalexchange"
+      DEEPLINK_SCHEME_2: "globalexchangeDoc"
+      DEEPLINK_SCHEME_3: "globalexchangeDash"
+
+  cityexchangeuae:
+    app:
+      name: "City Exchange UAE"
+    android:
+      applicationId: "com.dis.cityexchangeuae"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.dis.cityexchangeuae"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "cityexchangeuae"
+      DEEPLINK_SCHEME_2: "cityexchangeuaeDoc"
+      DEEPLINK_SCHEME_3: "cityexchangeuaeDash"
+
+
+  lakhoos:
+    app:
+      name: "Lakhoos"
+    android:
+      applicationId: "com.dis.lakhoos"
+      icon: "assets/images/lakhoos.png"
+    ios:
+      bundleId: "com.dis.lakhoos"
+      icon: "assets/images/lakhoos.png"
+    variables:
+      DEEPLINK_SCHEME_1: "lakhoos"
+      DEEPLINK_SCHEME_2: "lakhoosDoc"
+      DEEPLINK_SCHEME_3: "lakhoosDash"
+
+  kabayanRemit:
+    app:
+      name: "Kabayan Remit"
+    android:
+      applicationId: "com.dis.kabayanremit"
+      icon: "assets/images/kabayan_remit.png"
+    ios:
+      bundleId: "com.dis.kabayanremit"
+      icon: "assets/images/kabayan_remit.png"
+    variables:
+      DEEPLINK_SCHEME_1: "kabayanremit"
+      DEEPLINK_SCHEME_2: "kabayanremitDoc"
+      DEEPLINK_SCHEME_3: "kabayanremitDash"
+
+  dohaexchange:
+    app:
+      name: "Doha Exchange"
+    android:
+      applicationId: "com.nagainfo.dohaexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.mobile.DohaMobileExchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "dohaexchange"
+      DEEPLINK_SCHEME_2: "dohaexchangeDoc"
+      DEEPLINK_SCHEME_3: "dohaexchangeDash"
+
+  cityexchange:
+    app:
+      name: "City Exchange"
+    android:
+      applicationId: "com.nagainfo.cityexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.mobile.CityMoneyExchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "cityexchange"
+      DEEPLINK_SCHEME_2: "cityexchangeDoc"
+      DEEPLINK_SCHEME_3: "cityexchangeDash"
+
+  royalgrowth:
+    app:
+      name: "Royal Growth"
+    android:
+      applicationId: "com.dis.royal_growth"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.dis.roya-growth"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "royalgrowth"
+      DEEPLINK_SCHEME_2: "royalgrowthDoc"
+      DEEPLINK_SCHEME_3: "royalgrowthDash"
+
+  sharafexchange:
+    app:
+      name: "Sharaf Exchange"
+    android:
+      applicationId: "com.dis.sharafexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.dis.sharafexchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "sharafexchange"
+      DEEPLINK_SCHEME_2: "sharafexchangeDoc"
+      DEEPLINK_SCHEME_3: "sharafexchangeDash"
+
+  unimonioman:
+    app:
+      name: "Unimoni Oman"
+    android:
+      applicationId: "com.unimonioman"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.unimonioman"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "unimonioman"
+      DEEPLINK_SCHEME_2: "unimoniomanDoc"
+      DEEPLINK_SCHEME_3: "unimoniomanDash"
+
+  aljazeeraexchangeqatar:
+    app:
+      name: "Al Jazeera Exchange Qatar"
+    android:
+      applicationId: "com.dis.aljazeeraexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.dis.aljazeeraexchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "aljazeeraexchangeqatar"
+      DEEPLINK_SCHEME_2: "aljazeeraexchangeqatarDoc"
+      DEEPLINK_SCHEME_3: "aljazeeraexchangeqatarDash"
+
+
+  hamdanexchange:
+    app:
+      name: "HamdanPay"
+    android:
+      applicationId: "io.thoughtbox.hamdan"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.thoughtbox.hmd"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "hamdanexchange"
+      DEEPLINK_SCHEME_2: "hamdanexchangeDoc"
+      DEEPLINK_SCHEME_3: "hamdanexchangeDash"
+
+  alJadeed:
+    app:
+      name: "Al Jadeed"
+    android:
+      applicationId: "io.thoughtbox.jadeed"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.thoughtbox.ALJadeedEx"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "alJadeed"
+      DEEPLINK_SCHEME_2: "alJadeedDoc"
+      DEEPLINK_SCHEME_3: "alJadeedDash"
+
+
+  omanexchange:
+    app:
+      name: "Oman Exchange"
+    android:
+      applicationId: "com.dis.omanexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.dis.omanexchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "omanexchange"
+      DEEPLINK_SCHEME_2: "omanexchangeDoc"
+      DEEPLINK_SCHEME_3: "omanexchangeDash"
+
+  alsaddexchange:
+    app:
+      name: "Alsadd Exchange"
+    android:
+      applicationId: "com.alsadd.moneyexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.alsadd.moneyexchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "alsaddexchange"
+      DEEPLINK_SCHEME_2: "alsaddexchangeDoc"
+      DEEPLINK_SCHEME_3: "alsaddexchangeDash"
+
+  kiecoexchange:
+    app:
+      name: "KIECO Exchange"
+    android:
+      applicationId: "com.kuwaitindiaexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.kuwaitindiaexchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "kiecoexchange"
+      DEEPLINK_SCHEME_2: "kiecoexchangeDoc"
+      DEEPLINK_SCHEME_3: "kiecoexchangeDash"
+
+
+  easternexchange:
+    app:
+      name: "Eastern Exchange"
+    android:
+      applicationId: "com.eastern.moneyexchange"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.eastern.moneyexchange"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "easternexchange"
+      DEEPLINK_SCHEME_2: "easternexchangeDoc"
+      DEEPLINK_SCHEME_3: "easternexchangeDash"
+
+
+  alzamanexchange:
+    app:
+      name: "Alzaman Exchange"
+    android:
+      applicationId: "com.nagainfo.alzaman"
+      icon: "assets/images/cityuae.png"
+    ios:
+      bundleId: "com.nagainfo.alzaman"
+      icon: "assets/images/cityuae.png"
+    variables:
+      DEEPLINK_SCHEME_1: "alzamanexchange"
+      DEEPLINK_SCHEME_2: "alzamanexchangeDoc"
+      DEEPLINK_SCHEME_3: "alzamanexchangeDash"
+
+
+
+
+

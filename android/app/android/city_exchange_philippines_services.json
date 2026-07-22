@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200925117312",
+    "project_id": "city-exchange-b0ae0",
+    "storage_bucket": "city-exchange-b0ae0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200925117312:android:b83282c10626a15a995f65",
+        "android_client_info": {
+          "package_name": "com.dis.kabayanremit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkCn7Scy1dqTISkj7L4AY3kaUb1OduxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200925117312:android:4c21f1c551ce4aa4995f65",
+        "android_client_info": {
+          "package_name": "com.nagainfo.cityexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkCn7Scy1dqTISkj7L4AY3kaUb1OduxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

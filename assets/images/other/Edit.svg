@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="Edit" transform="translate(-69 -369)">
+    <g id="Rectangle_245" data-name="Rectangle 245" opacity="0">
+      <rect id="Rectangle_245-2" data-name="Rectangle 245" width="31" height="31" transform="translate(69 369)" fill="#fff"/>
+      <path id="Rectangle_245_-_Outline" data-name="Rectangle 245 - Outline" d="M1,1V30H30V1H1M0,0H31V31H0Z" transform="translate(69 369)" fill="#707070"/>
+    </g>
+    <g id="_81_Edit" data-name="81 Edit" transform="translate(72.859 372.487)">
+      <path id="Path_556" data-name="Path 556" d="M17.782,22.27H4.988A2.488,2.488,0,0,1,2.5,19.782V6.988A2.488,2.488,0,0,1,4.988,4.5h6.4a1.066,1.066,0,0,1,0,2.132h-6.4a.355.355,0,0,0-.355.355V19.782a.355.355,0,0,0,.355.355H17.782a.355.355,0,0,0,.355-.355v-6.4a1.066,1.066,0,0,1,2.132,0v6.4A2.488,2.488,0,0,1,17.782,22.27Z" transform="translate(0 -0.616)" fill="#444"/>
+      <path id="Path_557" data-name="Path 557" d="M11.566,15.968a1.066,1.066,0,0,1-1.059-1.2l.4-3.1a1.08,1.08,0,0,1,.3-.618l7.719-7.712A2.978,2.978,0,1,1,23.13,7.545l-7.712,7.719a1.08,1.08,0,0,1-.618.3l-3.1.4Zm3.1-1.457ZM12.987,12.3l-.178,1.372,1.358-.192,7.456-7.442a.839.839,0,0,0,0-1.194.86.86,0,0,0-1.194,0Z" transform="translate(-2.313)" fill="#444"/>
+    </g>
+  </g>
+</svg>

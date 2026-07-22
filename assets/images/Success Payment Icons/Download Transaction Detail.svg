@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="24.063" viewBox="0 0 23 24.063">
+  <g id="Download_Transaction_Detail" data-name="Download Transaction Detail" transform="translate(-0.15)">
+    <g id="download" transform="translate(0 0)">
+      <rect id="Rectangle_118" data-name="Rectangle 118" width="23" height="3" rx="1" transform="translate(0.15 21.063)" fill="#05a6dd"/>
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="5" height="3" rx="1" transform="translate(0.15 24.063) rotate(-90)" fill="#05a6dd"/>
+      <rect id="Rectangle_120" data-name="Rectangle 120" width="5" height="3" rx="1" transform="translate(20.15 24.063) rotate(-90)" fill="#05a6dd"/>
+      <path id="Path_506" data-name="Path 506" d="M14.155,17.154a1.431,1.431,0,0,1-.83-.258L7.6,12.862a1.431,1.431,0,1,1,1.66-2.332l4.894,3.42,4.865-3.663a1.431,1.431,0,1,1,1.717,2.289l-5.723,4.293A1.431,1.431,0,0,1,14.155,17.154Z" transform="translate(-2.708 0.016)" fill="#05a6dd"/>
+      <path id="Path_507" data-name="Path 507" d="M12.431,17.309A1.431,1.431,0,0,1,11,15.878V4.431a1.431,1.431,0,1,1,2.862,0V15.878A1.431,1.431,0,0,1,12.431,17.309Z" transform="translate(-0.984 -3)" fill="#05a6dd"/>
+    </g>
+  </g>
+</svg>

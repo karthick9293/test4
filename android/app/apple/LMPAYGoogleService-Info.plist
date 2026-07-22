@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAB9H-uuWbglPaECwkR0j_OojonM6Z5e1c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>283893584957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.user.lmpay</string>
+	<key>PROJECT_ID</key>
+	<string>lm-user-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lm-user-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:283893584957:ios:5b41ef474f6de0b9ac0654</string>
+	<key>DATABASE_URL</key>
+	<string>https://lm-user-app-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

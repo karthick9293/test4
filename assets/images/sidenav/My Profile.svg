@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="My_Profile" data-name="My Profile" transform="translate(-12912 -577)">
+    <g id="Rectangle_78" data-name="Rectangle 78" opacity="0">
+      <rect id="Rectangle_78-2" data-name="Rectangle 78" width="30" height="30" transform="translate(12912 577)" fill="#fff"/>
+      <path id="Rectangle_78_-_Outline" data-name="Rectangle 78 - Outline" d="M1,1V29H29V1H1M0,0H30V30H0Z" transform="translate(12912 577)" fill="#707070"/>
+    </g>
+    <path id="user" d="M27.479,29.894a5.947,5.947,0,1,0-5.931-5.963A5.931,5.931,0,0,0,27.479,29.894Zm0-10.33a4.366,4.366,0,1,1-4.366,4.4A4.367,4.367,0,0,1,27.479,19.564ZM17.182,39.18H37.841a.793.793,0,0,0,.782-.782,7.482,7.482,0,0,0-7.462-7.462h-7.3A7.482,7.482,0,0,0,16.4,38.4.793.793,0,0,0,17.182,39.18Zm6.68-6.68h7.3a5.877,5.877,0,0,1,5.833,5.116H18.029A5.877,5.877,0,0,1,23.862,32.5Z" transform="translate(12899.6 563)" fill="#05a6dd"/>
+  </g>
+</svg>

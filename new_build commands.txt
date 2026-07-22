@@ -1,0 +1,7 @@
+flutter build apk --flavor casmex -t lib/main_casmex.dart
+flutter build apk --flavor lmpay -t lib/main_lmpay.dart
+flutter build apk --flavor globalexchange -t lib/main_globalexchange.dart
+flutter build apk --flavor cityexchangeuae -t lib/main_cityexchangeuae.dart
+flutter build apk --flavor lakhoos -t lib/main_lakhoos.dart
+flutter build apk --flavor cityexchangephilippines -t lib/main_cityexchangephilippines.dart
+flutter build apk --flavor alzamanexchange -t lib/main_alzamanexchange.dart

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="SMS_share" data-name="SMS share" transform="translate(-0.393)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(0)">
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="52" height="52" rx="6.48" transform="translate(0.393 0)" fill="#00adf9"/>
+    </g>
+    <g id="sms" transform="translate(6.374 6.303)">
+      <path id="Path_529" data-name="Path 529" d="M0,0H40.252V40.253H0Z" fill="none"/>
+      <path id="Path_530" data-name="Path 530" d="M33.2,2H5.467A3.477,3.477,0,0,0,2,5.467v31.2l6.934-6.934H33.2a3.477,3.477,0,0,0,3.467-3.467V5.467A3.477,3.477,0,0,0,33.2,2ZM14.134,17.6H10.667V14.135h3.467Zm6.934,0H17.6V14.135h3.467ZM28,17.6H24.535V14.135H28Z" transform="translate(0.791 0.791)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

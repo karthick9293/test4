@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416001812981",
+    "project_id": "global-exchange-qatar",
+    "storage_bucket": "global-exchange-qatar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416001812981:android:788823a1feaecaa117d8bc",
+        "android_client_info": {
+          "package_name": "com.nagainfo.alzaman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVcbtXNte5biMOH1DjvwdAUPAw5aaCvrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

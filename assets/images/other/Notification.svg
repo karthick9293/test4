@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="Notification" transform="translate(-115 -123)">
+    <g id="Rectangle_248" data-name="Rectangle 248" opacity="0">
+      <rect id="Rectangle_248-2" data-name="Rectangle 248" width="31" height="31" transform="translate(115 123)" fill="#fff"/>
+      <path id="Rectangle_248_-_Outline" data-name="Rectangle 248 - Outline" d="M1,1V30H30V1H1M0,0H31V31H0Z" transform="translate(115 123)" fill="#707070"/>
+    </g>
+    <path id="notifications" d="M88.885,69a2.1,2.1,0,0,0,2.09-2.1H86.794A2.1,2.1,0,0,0,88.885,69Zm6.794-6.3V56.925a6.806,6.806,0,0,0-5.226-6.615v-.735a1.568,1.568,0,1,0-3.136,0v.735a6.806,6.806,0,0,0-5.226,6.615V62.7L80,64.8v1.05H97.769V64.8Z" transform="translate(41.366 80)" fill="#5e6368"/>
+  </g>
+</svg>

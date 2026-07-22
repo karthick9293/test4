@@ -1,0 +1,47 @@
+APP_NAME=CITY EXCHANGE UAE
+APP_VERSION=1.0.0
+BUILD_NUMBER=1
+BUILD_DATE=2026-02-19
+APP_KEY=NRfKnsleIXAN4fkbpnXaIiVOKVqGrTtaorLa0PvsfwYvhkHE6myKd0uMCi/0a7caLaMDFS+RUycVw02NN3l29Q==
+APP_BRANCH_CODE=00001
+BASE_URL=http://103.121.26.154:5000/fz-api/
+
+
+DEEPLINK_SCHEME_1=cityexchangeuae
+DEEPLINK_SCHEME_2=cityexchangeuaeDoc
+DEEPLINK_SCHEME_3=cityexchangeuaeDash
+
+UAE_PASS=https://stg-id.uaepass.ae/idshub/
+UAE_PASS_ClientId=sharaf_exchange_mob_stage
+UAE_PASS_ClientSecret=Qk4TgGJs84fIEyyq
+UAE_PASS_RedirectURL=https://mobileuat.sharafexchange.com/Payment/PaymentResponse/PostResponseUAEPASSRedirect
+UAE_PASS_Scope=urn:uae:digitalid:profile urn:uae:digitalid:digitalvault:datasharerequest
+UAE_PASS_UrlScheme=sharafExchange
+UAE_PASS_State=HnlHOJTkTb66Y5H
+UAE_PASS_IsProduction=false
+
+AES_IV=bsxnWolsAyO7kCfWuyrnqg==
+AES_KEY=AXe8YwuIn1zxt3FPWTZFlAa14EHdPAdN9FaZ9RQWihc=
+
+FIREBASE_API_KEY_ANDROID = AIzaSyDpkCn7Scy1dqTISkj7L4AY3kaUb1OduxE
+FIREBASE_APP_ID_ANDROID = 1:200925117312:android:4c21f1c551ce4aa4995f65
+FIREBASE_ANDROID_CLIENT_ID = 200925117312-kd29sg3rearvq1q65e4offrgqcaqth3m.apps.googleusercontent.com
+
+FIREBASE_API_KEY_IOS = AIzaSyA6Ohghuo0O0yIlfG8hepNSWXkZR79vEtU
+FIREBASE_APP_ID_IOS = 1:200925117312:ios:632a994de008564e995f65
+FIREBASE_IOS_BUNDLE_ID = com.mobile.CityMoneyExchange
+FIREBASE_IOS_CLIENT_ID = 200925117312-kd29sg3rearvq1q65e4offrgqcaqth3m.apps.googleusercontent.com
+
+FIREBASE_API_KEY_WINDOWS = AIzaSyCiL4iLWGl7POVW8FIW0MhllUb3OCaqLhA
+FIREBASE_APP_ID_WINDOWS = 1:200925117312:web:4c21f1c551ce4aa4995f65
+
+FIREBASE_API_KEY_MACOS = AIzaSyAB9H-uuWbglPaECwkR0j_OojonM6Z5e1c
+FIREBASE_APP_ID_MACOS = 1:200925117312:ios:632a994de008564e995f65
+
+
+FIREBASE_MESSAGING_SENDER_ID = 200925117312
+FIREBASE_PROJECT_ID = city-exchange-b0ae0
+FIREBASE_DATABASE_URL = https://lm-user-app-default-rtdb.asia-southeast1.firebasedatabase.app
+FIREBASE_STORAGE_BUCKET = city-exchange-b0ae0.appspot.com
+FIREBASE_AUTH_DOMAIN = lm-user-app.firebaseapp.com
+FIREBASE_MEASUREMENT_ID: G-EQZCVRDFPS

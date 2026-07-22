@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "283893584957",
+    "firebase_url": "https://lm-user-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lm-user-app",
+    "storage_bucket": "lm-user-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283893584957:android:63f09d465eaf8489ac0654",
+        "android_client_info": {
+          "package_name": "com.user.lm_pay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegGjRgEHvMh9fZ7HSe2bl2ZN9zfwLAPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="58.225" viewBox="0 0 77 58.225">
+  <defs>
+    <filter id="Ellipse_156" x="37" y="0" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="KYC_Approval_Pending_Review_inprogress" data-name="KYC Approval Pending &amp; Review inprogress" transform="translate(-188 -272)">
+    <g id="id_1_" data-name="id (1)" transform="translate(188 285)">
+      <path id="Path_1631" data-name="Path 1631" d="M0,0H58.062V45.225H0Z" fill="none"/>
+      <path id="Path_1632" data-name="Path 1632" d="M53.428,7.872H38.614A8.57,8.57,0,0,0,30.571,3a8.57,8.57,0,0,0-8.043,4.872H7.714C4.563,7.872,2,10.054,2,12.744V41.974c0,2.687,2.563,4.872,5.714,4.872H53.428c3.151,0,5.714-2.185,5.714-4.872V12.744C59.143,10.054,56.58,7.872,53.428,7.872ZM19.143,17.615c3.157,0,5.715,2.183,5.714,4.874s-2.56,4.872-5.717,4.872-5.715-2.183-5.714-4.874S15.986,17.615,19.143,17.615ZM10.571,37.1c0-4.484,3.311-7.308,8.571-7.308s8.571,2.823,8.571,7.308Zm20-24.359a2.676,2.676,0,0,1-2.857-2.436,2.676,2.676,0,0,1,2.857-2.436,2.676,2.676,0,0,1,2.857,2.436A2.676,2.676,0,0,1,30.571,12.744Zm20,24.359H33.428V32.231H50.571Zm0-9.744H33.428V22.487H50.571Z" transform="translate(-1.54 -2.311)" fill="#05a6dd"/>
+    </g>
+    <g id="Group_1008" data-name="Group 1008">
+      <g id="Group_1006" data-name="Group 1006" transform="translate(-8185 -76)">
+        <g transform="matrix(1, 0, 0, 1, 8373, 348)" filter="url(#Ellipse_156)">
+          <circle id="Ellipse_156-2" data-name="Ellipse 156" cx="11" cy="11" r="11" transform="translate(46 9)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_157" data-name="Ellipse 157" cx="9" cy="9" r="9" transform="translate(8421 359)" fill="#ef8c07"/>
+      </g>
+      <path id="hourglass_1_" data-name="hourglass (1)" d="M8.438,4.25a3.085,3.085,0,0,0,1.276-2.5V1.4h.7V0H2V1.4h.7v.351a3.079,3.079,0,0,0,1.268,2.49A1.8,1.8,0,0,1,4.805,5.6a1.932,1.932,0,0,1-.848,1.4A3.114,3.114,0,0,0,2.7,9.465v.353H2v1.4h8.415v-1.4h-.7V9.467A3.11,3.11,0,0,0,8.474,7.018a1.937,1.937,0,0,1-.863-1.4,1.789,1.789,0,0,1,.82-1.365ZM6.909,5.61A2.59,2.59,0,0,0,7.974,7.548,2.438,2.438,0,0,1,9.013,9.464v.354H3.4V9.467a2.435,2.435,0,0,1,1.023-1.91,2.593,2.593,0,0,0,1.08-1.94A2.442,2.442,0,0,0,4.455,3.736,2.411,2.411,0,0,1,3.4,1.754V1.4h5.61v.351A2.4,2.4,0,0,1,7.975,3.727,2.445,2.445,0,0,0,6.908,5.6Z" transform="translate(238.792 286.39)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
