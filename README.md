@@ -56,9 +56,3 @@ Supported on Android & iOS
 
 Internet permission, camera, and storage permissions required
 
-📣 License
-This is private software developed by Distinct Infotech Solutions.
-
-📞 Support
-For any queries, please contact Distinct Infotech Solutions at amitkumar.t@distinctinfotech.com.
-
