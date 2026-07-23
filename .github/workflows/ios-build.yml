@@ -307,38 +307,42 @@
 #           name: casmex-ipa
 #           path: build/ipa/*.ipa
 
- name: Build iOS IPA
+name: Build iOS IPA
 
- on:
+on:
   push:
     branches:
       - main
-      workflow_dispatch:
 
+  workflow_dispatch:
 
- jobs:
+jobs:
   build:
-
     runs-on: macos-latest
 
     steps:
-
       - uses: actions/checkout@v4
 
       - uses: subosito/flutter-action@v2
         with:
           flutter-version: "3.35.0"
 
-      - run: flutter pub get
+      - name: Install Dependencies
+        run: flutter pub get
 
-      - run: cd ios && pod install
+      - name: Install CocoaPods
+        run: |
+          cd ios
+          pod install
 
-     # - run: flutter build ipa --release
-      - run: flutter build ipa \
+      - name: Build IPA
+        run: |
+          flutter build ipa \
             --flavor casmex \
             -t lib/main_casmex.dart
 
-      - uses: actions/upload-artifact@v4
+      - name: Upload IPA
+        uses: actions/upload-artifact@v4
         with:
           name: ios-ipa
           path: build/ios/ipa/*.ipa
