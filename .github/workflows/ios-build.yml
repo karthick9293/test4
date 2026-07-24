@@ -26,8 +26,11 @@ jobs:
       - name: List available Xcode versions
         run: ls /Applications | grep Xcode
 
-      - name: Select Xcode version
-        run: sudo xcode-select -switch /Applications/Xcode_16.4.app
+      - name: Select newest available Xcode version
+        run: |
+          LATEST_XCODE=$(ls -d /Applications/Xcode_*.app | sort -V | tail -n 1)
+          echo "Selecting: $LATEST_XCODE"
+          sudo xcode-select -switch "$LATEST_XCODE"
 
       - name: Show selected Xcode version
         run: xcodebuild -version
