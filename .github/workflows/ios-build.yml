@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
+      - name: Disable Swift Package Manager for iOS
+        run: flutter config --no-enable-swift-package-manager
+
       # --- flutterfire_cli PATH fix ---
       - name: Activate flutterfire_cli and expose PATH
         run: |
