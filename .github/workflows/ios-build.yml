@@ -83,6 +83,9 @@ jobs:
           security list-keychains -d user -s "$KEYCHAIN_PATH" $(security list-keychains -d user | sed s/\"//g)
           security default-keychain -s "$KEYCHAIN_PATH"
 
+      - name: Show available signing identities
+        run: security find-identity -v -p codesigning
+
       - name: Install provisioning profile
         env:
           PROVISIONING_PROFILE_BASE64: ${{ secrets.BUILD_PROVISION_PROFILE_BASE64 }}
@@ -93,10 +96,17 @@ jobs:
           PROFILE_PATH=$RUNNER_TEMP/profile.mobileprovision
           echo -n "$PROVISIONING_PROFILE_BASE64" | base64 --decode -o "$PROFILE_PATH"
 
-          UUID=$(security cms -D -i "$PROFILE_PATH" | grep -A1 UUID | grep -io "[-A-F0-9]\{36\}")
+          DECODED=$(security cms -D -i "$PROFILE_PATH")
+
+          UUID=$(echo "$DECODED" | grep -A1 "<key>UUID</key>" | grep -io "[-A-F0-9]\{36\}")
+          PROFILE_NAME=$(echo "$DECODED" | grep -A1 "<key>Name</key>" | grep -o "<string>.*</string>" | sed -e 's/<string>//' -e 's/<\/string>//')
+
           echo "Profile UUID: $UUID"
+          echo "Profile Name: $PROFILE_NAME"
 
           cp "$PROFILE_PATH" "$PROFILE_DIR/$UUID.mobileprovision"
+
+          echo "PROFILE_NAME=$PROFILE_NAME" >> "$GITHUB_ENV"
 
       - name: Generate ExportOptions.plist
         env:
@@ -116,19 +126,26 @@ jobs:
               <key>provisioningProfiles</key>
               <dict>
                   <key>${BUNDLE_ID}</key>
-                  <string>match AppStore ${BUNDLE_ID}</string>
+                  <string>${PROFILE_NAME}</string>
               </dict>
           </dict>
           </plist>
           EOF
 
       - name: Build IPA
+        env:
+          TEAM_ID: ${{ secrets.TEAM_ID }}
         run: |
           export PATH="$PATH:$HOME/.pub-cache/bin"
           flutter build ipa --release \
             --flavor $FLAVOR \
             -t lib/main_$FLAVOR.dart \
-            --export-options-plist=ios/ExportOptions.plist
+            --export-options-plist=ios/ExportOptions.plist \
+            -- \
+            CODE_SIGN_STYLE=Manual \
+            CODE_SIGN_IDENTITY="Apple Distribution" \
+            DEVELOPMENT_TEAM=$TEAM_ID \
+            PROVISIONING_PROFILE_SPECIFIER="$PROFILE_NAME"
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
