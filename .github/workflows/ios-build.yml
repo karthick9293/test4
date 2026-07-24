@@ -78,7 +78,9 @@ jobs:
           PROFILE_PATH=$RUNNER_TEMP/profile.mobileprovision
           echo -n "$PROVISIONING_PROFILE_BASE64" | base64 --decode -o "$PROFILE_PATH"
 
-          UUID=$(grep -A1 UUID "$PROFILE_PATH" | grep -io "[-A-F0-9]\{36\}")
+          UUID=$(security cms -D -i "$PROFILE_PATH" | grep -A1 UUID | grep -io "[-A-F0-9]\{36\}")
+          echo "Profile UUID: $UUID"
+
           cp "$PROFILE_PATH" "$PROFILE_DIR/$UUID.mobileprovision"
 
       - name: Generate ExportOptions.plist
